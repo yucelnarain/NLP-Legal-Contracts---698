@@ -1,4 +1,8 @@
 # NLP-Legal-Contracts---698
+
+![image](https://user-images.githubusercontent.com/74326006/185812889-f120e23a-b4f1-4b7c-b83f-45519f017a2d.png)
+
+
 Project Overview
 
 This project creates an NLP pipeline that takes a transformer model trained on CUAD legal contracts and applies it to analyze and review existing procurement contracts by the State of Michigan’s Procurement Office. The project also explores techniques for fine-tuning an existing model to specific business uses via transfer learning, with the broader aim of facilitating the usage of complex tools for real-life applications within public institutions.
